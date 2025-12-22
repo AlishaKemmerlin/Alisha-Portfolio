@@ -21,4 +21,4 @@ I'm a beginner coder from South Carolina, blending creativity and tech—crochet
 
 ## 📫 Let’s Connect
 - Email: kemmerlinari@gmail.com 
-- Blog: [CodeInTheHook] (codeinthehook.blogspot.com)
+- Blog: [CodeInTheHook](codeinthehook.blogspot.com)
