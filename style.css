@@ -1,0 +1,73 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color: #56bce4;
+    color: #292829;
+    text-align: center;
+    padding: 4rem 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #1f4e79
+}
+p {
+    font-size: 1.5rem;
+    opacity: 0.85;
+}
+button {
+    background-color: #f76d60;
+    color: #1f4e79;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    font-family: 'Indie Flower', cursive;
+    transition: background-color 0.3s ease;
+}
+#projects {
+  margin-top: 3rem;
+}
+
+.project-card {
+  background-color: #f8fbff;
+  border: 2px solid #1f4e79;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  max-width: 600px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.project-card h3 {
+  color: #b46b5e;
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #1f4e79;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-button {
+  display: inline-block;
+  background-color: #f76d60;
+  color: #1f4e79;
+  padding: 0.7rem 1.2rem;
+  border-radius: 30px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.2rem;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+
+.project-button:hover {
+  background-color: #ff8a7a;
+}
