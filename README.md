@@ -1,4 +1,4 @@
-# 🌐 Alisha's Portfolio
+# 🌐 Alisha's Portfolio ー CodeInTheHook
 This repository will grow into my personal portfolio website, where I will showcase my projects, reflect on my learning journey, and express my creative brand, **CodeInTheHook**.
 
 ---
